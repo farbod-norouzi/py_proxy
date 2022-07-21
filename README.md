@@ -1,9 +1,9 @@
 # py_proxy
 Proxy list using Python (simple version)
 # Capabilities
- -Change the IP of the device
- -Open the site (https://httpbin.org) as Command Line and display the current IP
- -Ability to add a proxy
+ .Change the IP of the device
+ .Open the site (https://httpbin.org) as Command Line and display the current IP
+ .Ability to add a proxy
 # OS Required
 - Linux
 - Android
